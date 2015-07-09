@@ -1,6 +1,6 @@
 # go-choises
 
-[![screencast](https://raw.githubusercontent.com/geeks-dev/go-choices/screencast.gif)](https://raw.githubusercontent.com/geeks-dev/go-choices/screencast.gif "screencast")
+[![screencast](https://raw.githubusercontent.com/geeks-dev/go-choices/images/screencast.gif)](https://raw.githubusercontent.com/geeks-dev/go-choices/images/screencast.gif "screencast")
 
 
 ## Description
