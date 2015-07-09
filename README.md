@@ -24,7 +24,7 @@ It is a package that requires a simple selection.
 To install, use `go get`:
 
 ```bash
-$ go get github.com/geeks-dev/go-choises
+$ go get github.com/geeks-dev/go-choices
 ```
 
 ## Usage
